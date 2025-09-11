@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Robin
 
-<!--
-**rbardet/rbardet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a student at [42](https://www.42.fr/).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+- 🎓 **Student at 42 Le Havre**
+- 💻 Currently mastering:  
+  `C` | `C++` | `Docker` | `Git` | `SQL` | `TypeScript` | `JavaScript` | `Makefile`
+  
+---
+## Some project
+
+- [ft_irc](https://github.com/rbardet/ft_irc) — IRC server implementation in C++
+- [CPP](https://github.com/rbardet/CPP) — C++ modules & learning projects (object-oriented, advanced C++)
+- [ft_transcendence](https://github.com/rbardet/ft_transcendence) — Full-stack web app for the 42 last project
+- [inception](https://github.com/rbardet/inception) — Docker-based infrastructure & automation
+
+---
+
+## 📫 Contact
+
+- **Gmail:** robin.bardet.tomczak@gmail.com
+
+---
+
+Thanks for visiting! Feel free to check out my projects or reach out if you want to collaborate or chat about tech.
