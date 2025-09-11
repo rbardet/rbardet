@@ -23,7 +23,3 @@ Welcome to my GitHub! I'm a student at [42](https://www.42.fr/).
 ## Contact
 
 - **Gmail:** robin.bardet.tomczak@gmail.com
-
----
-
-Thanks for visiting! Feel free to check out my projects or reach out if you want to collaborate or chat about tech.
