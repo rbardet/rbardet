@@ -1,10 +1,10 @@
-# Hi there 👋 I'm Robin
+# Hi there I'm Robin
 
 Welcome to my GitHub! I'm a student at [42](https://www.42.fr/).
 
 ---
 
-## 🔥 About Me
+## About Me
 
 - 🎓 **Student at 42 Le Havre**
 - 💻 Currently mastering:  
@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a student at [42](https://www.42.fr/).
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Gmail:** robin.bardet.tomczak@gmail.com
 
