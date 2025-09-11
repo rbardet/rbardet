@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a student at [42](https://www.42.fr/).
 
 - 🎓 **Student at 42 Le Havre**
 - 💻 Currently mastering:  
-  `C` | `C++` | `Docker` | `Git` | `SQL` | `TypeScript` | `JavaScript` | `Makefile`
+  `C` | `C++` | `TypeScript` | `JavaScript` | `Makefile` | `Docker` | `Git` | `SQL`
   
 ---
 ## Some project
