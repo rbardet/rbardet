@@ -1,6 +1,6 @@
 # Hi there I'm Robin
 
-Welcome to my GitHub! I'm a student at [42](https://www.42.fr/).
+Welcome to my GitHub! I'm a student at [42](https://www.42.fr/) Learning code since August 2024
 
 ---
 
