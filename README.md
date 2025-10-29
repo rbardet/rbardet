@@ -13,8 +13,8 @@ Welcome to my GitHub! I'm a student at [42](https://www.42.fr/) Learning code si
 ---
 ## Some project
 
+- [KFS](https://github.com/rbardet/kfs) — A basic kernel
 - [ft_irc](https://github.com/rbardet/ft_irc) — IRC server implementation in C++
-- [ft_transcendence](https://github.com/M-U-C-K-A/transcendance) — Full-stack web app for the 42 last project
 - [Inception](https://github.com/rbardet/inception) — Learning docker with wordpress, mariadb and nginx
 ---
 
