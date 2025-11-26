@@ -1,23 +1,27 @@
-# Hi there I'm Robin
+# 👋 Hi, I'm Robin
 
-Welcome to my GitHub! I'm a student at [42](https://www.42.fr/) Learning code since August 2024
+I'm a student at **42 Le Havre** since October 2024, passionate about software engineering and computer science.
 
----
+## 💻 Technical Skills
 
-## About Me
+- **Languages:**
+  - C, C++
+  - x86 Assembly (Intel syntax)
+  - Basics of Java and Typescript
+- **Systems:**
+  - Linux (working daily on it for over a year at school)
+- **Tools & Technologies:**
+  - SQL
+  - Docker
+  - Makefile
 
-- 🎓 **Student at 42 Le Havre**
-- 💻 Currently mastering:  
-  `C` | `C++` | `x86 Assembly` | `TypeScript` | `JavaScript` | `Git` | `SQL` | `Docker`
-  
----
-## Some project
+## 🧑‍💻 Projects
 
-- [KFS](https://github.com/rbardet/kfs) — A basic kernel
-- [ft_irc](https://github.com/rbardet/ft_irc) — IRC server implementation in C++
-- [Inception](https://github.com/rbardet/inception) — Learning docker with wordpress, mariadb and nginx
----
+- [KFS](https://github.com/rbardet/kfs)  
+  A 32-bit kernel developed in C/ASM with GRUB as the bootloader.  
 
-## Contact
+- [ft_irc](https://github.com/rbardet/ft_irc)  
+  IRC server written in C++.  
 
-- **Gmail:** robin.bardet.tomczak@gmail.com
+- [ft_transcendence](https://github.com/M-U-C-K-A/transcendance)  
+  Fullstack web application (front-end, back-end, dockerized).  
