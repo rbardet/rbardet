@@ -7,7 +7,8 @@ I'm a student at **42 Le Havre** since October 2024, passionate about software e
 - **Languages:**
   - C, C++
   - x86 Assembly (Intel syntax)
-  - Basics of Java and Typescript
+  - Java
+  - Basics of Typescript
 - **Systems:**
   - Linux (working daily on it for over a year at school)
 - **Tools & Technologies:**
