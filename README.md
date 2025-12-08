@@ -2,7 +2,7 @@
 
 I'm a student at **42 Le Havre** since October 2024, passionate about software engineering and computer science.
 
-## 💻 Technical Skills
+## Technical Skills
 
 - **Languages:**
   - C, C++
@@ -16,7 +16,7 @@ I'm a student at **42 Le Havre** since October 2024, passionate about software e
   - Docker
   - Makefile
 
-## 🧑‍💻 Projects
+## Projects
 
 - [KFS](https://github.com/rbardet/kfs)  
   A 32-bit kernel developed in C/ASM with GRUB as the bootloader.  
