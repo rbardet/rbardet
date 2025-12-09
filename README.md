@@ -29,3 +29,4 @@ I'm a student at **42 Le Havre** since October 2024, passionate about software e
 
 - [Swingy](https://github.com/rbardet/swingy)
   A Simple rpg made in java with Swing
+
