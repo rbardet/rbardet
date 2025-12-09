@@ -25,4 +25,7 @@ I'm a student at **42 Le Havre** since October 2024, passionate about software e
   IRC server written in C++.  
 
 - [ft_transcendence](https://github.com/M-U-C-K-A/transcendance)  
-  Fullstack web application (front-end, back-end, dockerized).  
+  Fullstack web application (front-end, back-end, dockerized).
+
+  -[Swingy](https://github.com/rbardet/swingy)
+  A Simple rpg made in java with Swing
