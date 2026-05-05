@@ -8,14 +8,13 @@ I'm a student at **42 Le Havre** since October 2024, passionate about software e
   - C, C++
   - x86 Assembly (Intel syntax)
   - Java
-  - Basics of Typescript
-- **Systems:**
-  - Linux (working daily on it for over a year at school)
-- **Tools & Technologies:**
-  - SQL
-  - Docker
-  - Makefile
+  - TypeScript / JavaScript
 
+- **Frameworks & Technologies:**
+  - Node.js
+  - NestJS
+  - Fastify
+  
 ## Projects
 
 - [KFS](https://github.com/rbardet/kfs)  
